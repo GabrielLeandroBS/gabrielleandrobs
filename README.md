@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/gabrielleandrob/**
 
-- ⚡ Fun fact **I like animes**
+- ⚡ Fun fact **I’m passionate about building SaaS that get the job done, even if scalability isn't the top priority.**
 
 <h3 align="left">Languages and Tools:</h3>
 
