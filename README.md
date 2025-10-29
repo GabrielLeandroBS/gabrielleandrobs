@@ -126,6 +126,4 @@ I have strong experience with **React**, **Next.js**, and **TypeScript**, buildi
 
 ## 🌐 Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/-Gabriel%20Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-LINKEDIN)](LINK-DO-LINKEDIN)  
-[![Gmail Badge](https://img.shields.io/badge/-gabriel@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)  
-[![GitHub](https://img.shields.io/github/followers/gabrielleandro?label=follow&style=social)](https://github.com/gabrielleandro)
+[![Linkedin](https://img.shields.io/badge/-Gabriel%20Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gabrielleandrob)](https://linkedin.com/in/gabrielleandrob)
