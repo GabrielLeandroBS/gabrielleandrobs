@@ -20,12 +20,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineer** with over **five years of experience** building modern, responsive, and user-centric **web and mobile applications**.  
-I specialize in **Next.js**, **React**, **Tailwind CSS**, **React Native**, and **Svelte**, focusing on performance, accessibility, and clean architecture.
+I'm a **Senior Software Engineer** with over **five years of experience** delivering modern, responsive, and user-focused **web and mobile applications**.  
+I specialize in **Next.js**, **React**, **Tailwind CSS**, **React Native**, and **Svelte**, with a strong focus on performance, accessibility, and scalable front-end architecture.
 
-💡 Currently working on projects involving **fraud prevention systems** and **content administration platforms**.  
-🌍 Passionate about **frontend excellence**, **UI/UX**, and **scalable design systems**.  
-🚀 Constantly exploring **new frameworks** and **tooling** to improve developer experience.
+💡 Currently working on projects related to **fraud prevention systems** and **content administration platforms**.  
+🌍 Passionate about **frontend craftsmanship**, **UI/UX design**, and **developer experience**.  
+🚀 Always exploring new **frameworks**, **design systems**, and **modern workflows** to craft better digital products.
 
 ---
 
