@@ -1,144 +1,131 @@
-<h1 align="center">Hi 👋, I'm Gabriel Leandro</h1>
-<h3 align="center">A passionate Senior Software Engineer from Brazil, currently working in Europe.</h3>
+### 👋 Hi, my name is Gabriel
 
-<p align="center">
-  <a href="https://gabrielleandro.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/gabrielleandrobs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gabrielleandrobs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/gabrielleandrobs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+I'm a **Front-end Engineer** passionate about creating **modern**, **performant**, and **scalable** web applications.  
+I have strong experience with **React**, **Next.js**, and **TypeScript**, building interfaces that focus on **usability**, **accessibility**, and **high performance**.  
+
+💼 I currently work on **fraud prevention systems** and **content administration platforms**.  
+🌍 I’m deeply interested in **frontend architecture**, **UI/UX design**, and **modern developer experience**.  
+🚀 Always exploring **new frameworks**, **design systems**, and **deployment workflows** to craft better digital products.
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-I'm a **Senior Software Engineer** with over **five years of experience** delivering modern, responsive, and user-focused **web and mobile applications**.  
-I specialize in **Next.js**, **React**, **Tailwind CSS**, **React Native**, and **Svelte**, with a strong focus on performance, accessibility, and scalable front-end architecture.
-
-💡 Currently working on projects related to **fraud prevention systems** and **content administration platforms**.  
-🌍 Passionate about **frontend craftsmanship**, **UI/UX design**, and **developer experience**.  
-🚀 Always exploring new **frameworks**, **design systems**, and **modern workflows** to craft better digital products.
+- 🤔 Always exploring new technologies and refining frontend architecture.  
+- 💼 Working as a **Front-end Engineer**, focused on **fraud prevention** and **content management platforms**.  
+- 🌱 Currently learning more about **performance optimization**, **E2E testing**, and **design systems**.  
+- ⚙️ Dedicated to delivering **fast**, **accessible**, and **consistent** user interfaces.  
 
 ---
 
-### 🧠 Tech Stack
+## 🧩 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
+### 🎨 Front-end
 
-<p align="left">
-  <!-- Frameworks e Libs -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> 
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> 
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> 
-  </a>
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="40" height="40"/> 
-  </a>
-
-  <!-- Linguagens -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> 
-  </a>
-
-  <!-- Estilo -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://bulma.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bulma.svg" alt="Bulma" width="40" height="40"/> 
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
-  </a>
-
-  <!-- Backend / Infra -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-  </a>
-  <a href="https://heroku.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> 
-  </a>
-
-  <!-- Testes e Dev Tools -->
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" width="40" height="40"/> 
-  </a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/> 
-  </a>
-  <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="40" height="40"/> 
-  </a>
-
-  <!-- Design -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/> 
-  </a>
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+![Zustand](https://img.shields.io/badge/-Zustand-333333?style=flat&logo=zustand)
+![React Query](https://img.shields.io/badge/-React%20Query-333333?style=flat&logo=react-query)
+![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-333333?style=flat&logo=framer)
+![Shadcn/UI](https://img.shields.io/badge/-shadcn/ui-333333?style=flat&logo=radixui)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=chakraui)
+![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
 
 ---
 
-### 📊 GitHub Stats
+### ⚙️ Back-end
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielleandrobs&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielleandrobs&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielleandrobs&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=postman)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
 ---
 
-### ☕ Fun Fact
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### ☁️ DevOps & Cloud
+
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+![Railway](https://img.shields.io/badge/-Railway-333333?style=flat&logo=railway)
+![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
+
+---
+
+### 🧪 Testing & Code Quality
+
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testing-library)
+![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
+![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)
+![Husky](https://img.shields.io/badge/-Husky-333333?style=flat&logo=husky)
+
+---
+
+### 🧰 Tools & Productivity
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+![Linear](https://img.shields.io/badge/-Linear-333333?style=flat&logo=linear)
+![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+---
+
+### 🧱 Design Systems & UI Libraries
+
+![Radix UI](https://img.shields.io/badge/-Radix%20UI-333333?style=flat&logo=radixui)
+![Shadcn/UI](https://img.shields.io/badge/-shadcn/ui-333333?style=flat&logo=radixui)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=chakraui)
+![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=antdesign)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+
+---
+
+### 📊 Observability & Monitoring
+
+![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=sentry)
+![Datadog](https://img.shields.io/badge/-Datadog-333333?style=flat&logo=datadog)
+![LogRocket](https://img.shields.io/badge/-LogRocket-333333?style=flat&logo=logrocket)
+![PostHog](https://img.shields.io/badge/-PostHog-333333?style=flat&logo=posthog)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-333333?style=flat&logo=googleanalytics)
+
+---
+
+## 🌐 Connect with Me
+
+[![Linkedin](https://img.shields.io/badge/-Gabriel%20Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-LINKEDIN)](LINK-DO-LINKEDIN)  
+[![Gmail Badge](https://img.shields.io/badge/-gabriel@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)  
+[![GitHub](https://img.shields.io/github/followers/gabrielleandro?label=follow&style=social)](https://github.com/gabrielleandro)
