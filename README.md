@@ -1,21 +1,35 @@
 <h1 align="center">Hi 👋, I'm Gabriel Leandro</h1>
 <h3 align="center">A passionate Senior Software Engineer from Brazil, currently working in Europe.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielleandrobs" alt="gabrielleandrobs" /></a> </p>
+<p align="center">
+  <a href="https://gabrielleandro.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/gabrielleandrobs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gabrielleandrobs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/gabrielleandrobs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Fiber, Three.js, and other motion libraries.**
+---
 
-- 👯 I’m looking to collaborate on [Maybe Finance](https://maybefinance.com/)
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://gabrielleandro.framer.website/](https://gabrielleandro.framer.website/)
+I'm a **Software Engineer** with over **five years of experience** building modern, responsive, and user-centric **web and mobile applications**.  
+I specialize in **Next.js**, **React**, **Tailwind CSS**, **React Native**, and **Svelte**, focusing on performance, accessibility, and clean architecture.
 
-- 💬 Ask me about **A passionate Senior Software Engineer from Brazil, currently working in Europe. With a strong focus on frontend development, performance optimization, and SEO, I specialize in building scalable applications using Next.js and Angular.**
+💡 Currently working on projects involving **fraud prevention systems** and **content administration platforms**.  
+🌍 Passionate about **frontend excellence**, **UI/UX**, and **scalable design systems**.  
+🚀 Constantly exploring **new frameworks** and **tooling** to improve developer experience.
 
-- 📫 How to reach me **https://www.linkedin.com/in/gabrielleandrob/**
+---
 
-- ⚡ Fun fact **I’m passionate about building SaaS that get the job done, even if scalability isn't the top priority.**
-
-<h3 align="left">Languages and Tools:</h3>
+### 🧠 Tech Stack
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -110,3 +124,21 @@
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/> 
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielleandrobs&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielleandrobs&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielleandrobs&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### ☕ Fun Fact
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
